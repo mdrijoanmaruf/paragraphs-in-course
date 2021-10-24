@@ -1,7 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&family=Roboto&display=swap');
+
 h3{
   text-align: center;
   color: #FF0000
 }
 p{
   margin: 20px;
+  font-family: 'PT Serif', serif;
+font-family: 'Roboto', sans-serif;
 }
