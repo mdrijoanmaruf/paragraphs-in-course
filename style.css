@@ -2,10 +2,13 @@
 
 h3{
   text-align: center;
-  color: #FF0000
+  color: #BD3723
 }
 p{
   margin: 20px;
   font-family: 'PT Serif', serif;
 font-family: 'Roboto', sans-serif;
+}
+.ono{
+  color: #840808
 }
